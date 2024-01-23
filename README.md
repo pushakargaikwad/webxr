@@ -2,7 +2,7 @@
 
 ## Running
 
-`npm run dev`
+`npm run dev -- --host`
 
 ## Installing
 

@@ -4,7 +4,7 @@ import { Canvas } from '@react-three/fiber'
 function App() {
   return (
     <>
-      <VRButton />
+      <ARButton />
       <Canvas>
         <XR>
           <Controllers />
