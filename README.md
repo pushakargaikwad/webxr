@@ -16,3 +16,7 @@
 This project was created using the command `npm create vite@latest`
 - following additional packages were added
 `npm install @react-three/xr`
+
+## Credits
+
+Built using React Components and examples from https://github.com/pmndrs/react-xr
