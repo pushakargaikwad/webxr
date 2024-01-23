@@ -14,3 +14,5 @@
 ## InitialDevelopment
 
 This project was created using the command `npm create vite@latest`
+- following additional packages were added
+`npm install @react-three/xr`
